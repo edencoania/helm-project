@@ -49,9 +49,3 @@ To customize the deployments, modify the `values.yaml` files in each application
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-[Specify your license here]
-```
-
-Would you like me to explain or elaborate on any part of this README?
